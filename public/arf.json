@@ -5,100 +5,30 @@
         {
           "children": [
             {
-              "name": "Namechk",
+              "name": "TheQRL",
               "type": "url",
-              "url": "https://namechk.com/"
-            },
-            {
-              "name": "Namechk (T)",
-              "type": "url",
-              "url": "https://github.com/HA71/Namechk"
-            },
-            {
-              "name": "KnowEm",
-              "type": "url",
-              "url": "http://knowem.com/"
-            },
-            {
-              "name": "NameCheckr",
-              "type": "url",
-              "url": "https://www.namecheckr.com/"
-            },
-            {
-              "name": "UserSearch.org",
-              "type": "url",
-              "url": "https://usersearch.org/"
-            },
-            {
-              "name": "WhatsMyName (T)",
-              "type": "url",
-              "url": "https://github.com/WebBreacher/WhatsMyName"
-            },
-            {
-              "name": "IntelTechniques Username Tools",
-              "type": "url",
-              "url": "https://inteltechniques.com/osint/username.html"
-            },
-            {
-              "name": "Thats Them",
-              "type": "url",
-              "url": "https://thatsthem.com/"
-            },
-            {
-              "name": "Check Usernames",
-              "type": "url",
-              "url": "http://checkusernames.com/"
-            },
-            {
-              "name": "Gaddr.me",
-              "type": "url",
-              "url": "https://gaddr.me/"
+              "url": "https://github.com./theQRL"
             }
           ],
-          "name": "Username Search Engines",
+          "name": "Github",
           "type": "folder"
         },
         {
           "children": [
-            {
-              "name": "Amazon Usernames (M)",
-              "type": "url",
-              "url": "https://www.google.com/search?q=site:amazon.com+%3Cusername%3E"
-            },
-            {
-              "name": "Amazon Wishlists",
-              "type": "url",
-              "url": "https://www.amazon.com/gp/registry/search.html/?ie=UTF8&type=wishlist"
-            },
-            {
-              "name": "Github User (M)",
-              "type": "url",
-              "url": "https://api.github.com/users/%3Cusername%3E/events/public"
-            },
-            {
-              "name": "Tinder Usernames (M)",
-              "type": "url",
-              "url": "https://www.gotinder.com/@%3Cusername%3E"
-            },
-            {
-              "name": "Keybase",
-              "type": "url",
-              "url": "https://keybase.io/"
-            },
             {
               "name": "MIT PGP Key Server",
               "type": "url",
               "url": "http://pgp.mit.edu/"
             }
           ],
-          "name": "Specific Sites",
+          "name": "Infrastructure",
           "type": "folder"
         }
       ],
-      "name": "Username",
+      "name": "Team Services",
       "type": "folder"
     }
   ],
-  "name": "OSINT Framework",
+  "name": "QRL Services",
   "type": "folder"
 }
