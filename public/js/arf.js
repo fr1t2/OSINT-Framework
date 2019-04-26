@@ -30,12 +30,12 @@ d3.json("arf.json", function(json) {
     }
   }
 
-  function toggleAll(d) {
+/*  function toggleAll(d) {
     if (d.children) {
       d.children.forEach(toggleAll);
       toggle(d);
     }
-  } 
+  } */
   root.children.forEach(collapse);
   update(root);
 });
